@@ -1,0 +1,13 @@
+{
+  "message": "hola i18n !!",
+  "user":{ 
+    "title": "Usuario",
+    "name": "Nombre",
+    "password": "Contraseña",
+    "hobby": "Pasatiempo | Pasatiempos"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Sobre"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "message": "hello i18n !!",
+  "user":{ 
+    "title": "User",
+    "name": "Name",
+    "password": "Password",
+    "hobby": "Hobby | Hobbies"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About"
+  }
+}
